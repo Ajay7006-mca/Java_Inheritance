@@ -1,5 +1,4 @@
 package pillars.Inheritance;
-
 class Course {
     protected String courseName;
     protected int duration;

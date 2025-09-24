@@ -34,7 +34,7 @@ class OnlineCourse extends Course {
 
 class PaidOnlineCourse extends OnlineCourse {
     private double fee;
-    private double discount; // as percentage
+    private double discount;
 
     PaidOnlineCourse(String courseName, int duration, String platform, boolean isRecorded, double fee, double discount) {
         super(courseName, duration, platform, isRecorded);

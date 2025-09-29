@@ -1,4 +1,5 @@
-package pillars.Inheritance;
+package Inheritance;
+
 interface Refuelable {
     void refuel();
 }

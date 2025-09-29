@@ -1,4 +1,5 @@
 package pillars.Inheritance;
+
 class Book{
      private String title;
     private int publicationYear;

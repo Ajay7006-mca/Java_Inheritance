@@ -1,4 +1,5 @@
 package pillars.Inheritance;
+
 class BankAccount {
     protected String accountNumber;
     protected double balance;

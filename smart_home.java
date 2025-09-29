@@ -1,5 +1,6 @@
 package pillars.Inheritance;
 
+
 class device {
    private int deviceid;
     private String status;

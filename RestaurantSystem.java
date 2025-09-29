@@ -1,4 +1,5 @@
 package pillars.Inheritance;
+
 interface Worker {
     void performDuties();
 }
